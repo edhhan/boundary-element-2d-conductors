@@ -20,8 +20,8 @@ The BEM only requires a discretization of the boundary. Also, only one type of c
 
 - Coaxial conductor 
 2D Laplace with Dirichlet condition of 0 for the outer circle and 1 for the inner circle.
-![Elements](https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_elements.png?raw=true)
-![Domain](https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_domain.png?raw=true)
+![Elements](https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_elements.png = 200x)
+![Domain](https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_domain.png = 200x)
 
 - Hole conductor (outer square with inner circle)
 2D Laplace with Dirichlet condition of 0 for the bottom and 1 for the top (opposite sides). Other sides are Neumann with 0.
