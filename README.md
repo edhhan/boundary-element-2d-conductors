@@ -1,4 +1,4 @@
-# Boundary-element-2d-conductors
+# boundary-element-2d-conductors
 
 In this project, we wanted to familiarize ourselves with the boundary element method (BEM) for 2d coaxial conductors (the depth is supposed to be infinite) in a context of electromagnetism. To do so, we have solved a well-known problem in physics, the 2D Laplace potential with various geometries. 
 
@@ -20,20 +20,20 @@ The BEM only requires a discretization of the boundary. Also, only one type of c
 
 - Coaxial conductor 
 2D Laplace with Dirichlet condition of 0 for the outer circle and 1 for the inner circle.
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_elements.png" width="500" height="200">
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/coaxial_domain.png" width="500" height="250">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/coaxial_elements.png" width="500" height="200">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/coaxial_domain.png" width="500" height="250">
 
 
 - Hole conductor (outer square with inner circle)
 2D Laplace with Dirichlet condition of 0 for the bottom and 1 for the top (opposite sides). Other sides are Neumann with 0.
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/hole_elements.png" width="350" height="175">
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/hole_domain.png" width="500" height="250">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/hole_elements.png" width="350" height="175">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/hole_domain.png" width="500" height="250">
 
 
 - Slope 
 2D Laplace with Dirichlet condition of
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/slope_elements.png" width="350" height="175">
-<img src="https://github.com/edhhan/Boundary-element-2d-conductors/blob/main/results/slope.png" width="500" height="250">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/slope_elements.png" width="350" height="175">
+<img src="https://github.com/edhhan/boundary-element-2d-conductors/blob/main/results/slope.png" width="500" height="250">
 
 ## Author
 Edward H-Hannan
